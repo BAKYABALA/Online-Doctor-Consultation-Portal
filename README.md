@@ -32,7 +32,7 @@ Welcome to this portal
  .message/video call with patients
  .view/give prescription
  .Medical information of patients
- .Update profile
+ .Update profile.
  
 #Medical:
  .View prescriptions
