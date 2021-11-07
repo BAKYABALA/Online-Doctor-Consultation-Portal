@@ -19,52 +19,52 @@ Welcome to this portal
 
 #ADMIN:
 
-   .Manage website
+    .Manage website
   
-   .Add doctors/Hospitals/Medicals
+    .Add doctors/Hospitals/Medicals
   
-   .View reports/Activities
+    .View reports/Activities
   
-   .Update profile
+    .Update profile
   
-   .Control website
+    .Control website
  
 #PATIENT:
 
-   .Request for Appointment
+    .Request for Appointment
   
-   .Give their medical informations
+    .Give their medical informations
   
-   .View prescription
+    .View prescription
   
-   .View/send messages
+    .View/send messages
   
-   .Update profile
+    .Update profile
   
-   .Give feedback
+    .Give feedback
  
 #DOCTORS:
 
-   .Consult appointment 
+    .Consult appointment 
   
-   .message/video call with patients
+    .message/video call with patients
   
-   .view/give prescription
+    .view/give prescription
   
-   .Medical information of patients
+    .Medical information of patients
   
-   .Update profile.
+    .Update profile.
  
 #Medical:
 
-   .View prescriptions
+    .View prescriptions
    
-   .Control Medicines
+    .Control Medicines
 #Languages:
 
-   .Html 
+    .Html 
   
-   .Css
+    .Css
   
-   .Javascript
+    .Javascript
  
