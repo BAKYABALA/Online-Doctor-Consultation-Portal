@@ -5,17 +5,17 @@ Welcome to this portal
 
 #INTRODUCTION:
 
-   With this online consultation website,Doctors can diagose and prescribe medicines for all health issues.
+      With this online consultation website,Doctors can diagose and prescribe medicines for all health issues.
 
 #FEATURES:
 
-  .Login for all users
+    .Login for all users
  
-  .patient registration
+    .patient registration
  
-  .consulting and get medicine by online
- 
-  .online payment
+    .consulting and get medicine by online
+  
+    .online payment
 
 #ADMIN:
 
