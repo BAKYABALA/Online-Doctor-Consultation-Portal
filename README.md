@@ -62,9 +62,8 @@ Welcome to this portal
     .Control Medicines
 #Languages:
 
-    .Html 
-  
-    .Css
-  
-    .Javascript
- 
+    .Front End
+         .ReactJS
+         
+    .Back End
+         .Django
